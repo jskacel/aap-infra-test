@@ -1,0 +1,803 @@
+---
+controller_projects:
+- name: Project 1
+  organization: Organization 1
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 2
+  organization: Organization 2
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 3
+  organization: Organization 3
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 4
+  organization: Organization 4
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 5
+  organization: Organization 5
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 6
+  organization: Organization 6
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 7
+  organization: Organization 7
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 8
+  organization: Organization 8
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 9
+  organization: Organization 9
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 10
+  organization: Organization 10
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 11
+  organization: Organization 11
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 12
+  organization: Organization 12
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 13
+  organization: Organization 13
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 14
+  organization: Organization 14
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 15
+  organization: Organization 15
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 16
+  organization: Organization 16
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 17
+  organization: Organization 17
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 18
+  organization: Organization 18
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 19
+  organization: Organization 19
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 20
+  organization: Organization 20
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 21
+  organization: Organization 21
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 22
+  organization: Organization 22
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 23
+  organization: Organization 23
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 24
+  organization: Organization 24
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 25
+  organization: Organization 25
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 26
+  organization: Organization 26
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 27
+  organization: Organization 27
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 28
+  organization: Organization 28
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 29
+  organization: Organization 29
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 30
+  organization: Organization 30
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 31
+  organization: Organization 31
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 32
+  organization: Organization 32
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 33
+  organization: Organization 33
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 34
+  organization: Organization 34
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 35
+  organization: Organization 35
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 36
+  organization: Organization 36
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 37
+  organization: Organization 37
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 38
+  organization: Organization 38
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 39
+  organization: Organization 39
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 40
+  organization: Organization 40
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 41
+  organization: Organization 41
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 42
+  organization: Organization 42
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 43
+  organization: Organization 43
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 44
+  organization: Organization 44
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 45
+  organization: Organization 45
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 46
+  organization: Organization 46
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 47
+  organization: Organization 47
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 48
+  organization: Organization 48
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 49
+  organization: Organization 49
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 50
+  organization: Organization 50
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 51
+  organization: Organization 51
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 52
+  organization: Organization 52
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 53
+  organization: Organization 53
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 54
+  organization: Organization 54
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 55
+  organization: Organization 55
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 56
+  organization: Organization 56
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 57
+  organization: Organization 57
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 58
+  organization: Organization 58
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 59
+  organization: Organization 59
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 60
+  organization: Organization 60
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 61
+  organization: Organization 61
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 62
+  organization: Organization 62
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 63
+  organization: Organization 63
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 64
+  organization: Organization 64
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 65
+  organization: Organization 65
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 66
+  organization: Organization 66
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 67
+  organization: Organization 67
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 68
+  organization: Organization 68
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 69
+  organization: Organization 69
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 70
+  organization: Organization 70
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 71
+  organization: Organization 71
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 72
+  organization: Organization 72
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 73
+  organization: Organization 73
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 74
+  organization: Organization 74
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 75
+  organization: Organization 75
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 76
+  organization: Organization 76
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 77
+  organization: Organization 77
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 78
+  organization: Organization 78
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 79
+  organization: Organization 79
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 80
+  organization: Organization 80
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 81
+  organization: Organization 81
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 82
+  organization: Organization 82
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 83
+  organization: Organization 83
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 84
+  organization: Organization 84
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 85
+  organization: Organization 85
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 86
+  organization: Organization 86
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 87
+  organization: Organization 87
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 88
+  organization: Organization 88
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 89
+  organization: Organization 89
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 90
+  organization: Organization 90
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 91
+  organization: Organization 91
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 92
+  organization: Organization 92
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 93
+  organization: Organization 93
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 94
+  organization: Organization 94
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 95
+  organization: Organization 95
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 96
+  organization: Organization 96
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 97
+  organization: Organization 97
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 98
+  organization: Organization 98
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 99
+  organization: Organization 99
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+- name: Project 100
+  organization: Organization 100
+  scm_branch: master
+  scm_clean: 'no'
+  scm_delete_on_update: 'no'
+  scm_type: git
+  scm_update_on_launch: 'no'
+  scm_url: https://github.com/ansible/test-playbooks
+

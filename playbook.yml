@@ -1,0 +1,23 @@
+---
+- name: AAP infra job
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  vars:
+    aap_hostname: "{{ aap_hostname }}"
+    aap_username: "{{ aap_username }}"
+    aap_password: "{{ aap_password }}"
+    aap_validate_certs: "{{ aap_validate_certs }}"
+
+  tasks:
+    - name: Load all configuration files
+      ansible.builtin.include_vars:
+        dir: vars
+        extensions:
+          - yml
+      tags:
+        - always
+
+    - name: Configure AAP using dispatch role
+      ansible.builtin.include_role:
+        name: infra.aap_configuration.dispatch
