@@ -1,6 +1,6 @@
 controller_templates:
 - name: Job template 1
-   job_type: run
+  job_type: run
   inventory: Demo Inventory
   project: Project 1
   playbook: sleep.yml
